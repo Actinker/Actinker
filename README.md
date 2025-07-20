@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QvRz6kC9W66Yw/giphy.gif" width="60px" alt="Waving Hand GIF"> <h1>Hi there, I'm Abin A C! 👋</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl6ZnhwcG01Y2lkZXowYXVpcW9rbHVsZHdqMjg1bTkzNnVidDNxbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="60px" alt="Waving Hand GIF"> <h1>Hi there, I'm Abin A C! 👋</h1>
   <p>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</p>
   <p>📍 Kochi, Kerala, India</p>
 </div>
