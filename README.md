@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abin A C</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=1500&color=2AF7DB&background=FFFFFF00&center=true&multiline=true&repeat=false&width=1050&height=80&lines=Aspiring+Machine+Learning+Engineer+|+AI+%26+Data+Science+Enthusiast+|+Full-Stack+Developer;Always+learning,+building+impactful+solutions,+and+collaborating." alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Actinker&label=Profile%20views&color=0e75b6&style=flat" alt="Actinker" /> </p>
-
 ---
 
 # 💻 Tech Stack:
@@ -44,15 +42,6 @@
 - 🔮 **[Stockgorithm](https://github.com/Actinker/Stockgorithm)**: AI-driven stock prediction platform using LSTM/Transformer models and a React dashboard.
 - 🧾 **[Human Resource Management System](https://github.com/Actinker/Human-Resource-Management-System)**: Java + Spring Boot-based end-to-end HRMS solution.
 - ✍️ **[Flask Blog App](https://github.com/Actinker/Blog)**: A secure full-stack blogging platform with user auth and comments.
-
----
-
-### 🏆 Achievements & Hackathons
-
-- 🧪 **HackS’US 2025 Finalist** – Built AquaSweep, an AI-based water monitoring system
-- 🧠 **Smart India Hackathon 2024** – College-Level Qualifier
-- ♻️ **SparkVenture 2.0 Finalist** – Smart Waste Management Proposal
-- 📅 **YIP 5.0 District Shortlist** – “TaskBuddy” AI Scheduler
 
 ---
 
