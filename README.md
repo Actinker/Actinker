@@ -1,8 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgxcmtmdWVjMzkzbWphZDRxeWdnMXBlN2IwNmFxdGpwbmZwdzBtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" width="80px" alt="Welcome Dev GIF">
 
----
 
+  <h1>Hi there, I'm Abin A C! 👋</h1>
+  <p><strong>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</strong></p>
+  <p>📍 Kochi, Kerala, India</p>
+</div>
+
+---
 ## 📚 About Me
 
 I’m a passionate Computer Science Engineering undergraduate at **Rajagiri School of Engineering & Technology**, constantly exploring new technologies to solve real-world problems.
