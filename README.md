@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="60px" alt="Waving Hand GIF">
+  ![hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
   <h1>Hi there, I'm Abin A C! 👋</h1>
   <p><strong>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</strong></p>
   <p>📍 Kochi, Kerala, India</p>
