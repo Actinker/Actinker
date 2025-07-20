@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKzv5afFTqnVmleer/giphy.gif" width="60px" alt="Hello GIF">
-  <h1>Hi there, I'm Abin A C! 👋</h1>
+  <img src="https://media.giphy.com/media/QvRz6kC9W66Yw/giphy.gif" width="60px" alt="Waving Hand GIF"> <h1>Hi there, I'm Abin A C! 👋</h1>
   <p>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</p>
+  <p>📍 Kochi, Kerala, India</p>
 </div>
 
 ---
@@ -37,7 +37,6 @@ Here are some of the technologies I've been working with:
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
 **Web Development (Full-Stack):**
@@ -66,18 +65,22 @@ Here are some of the technologies I've been working with:
 
 Here are a few highlights from my portfolio:
 
-* **AI-Powered Chat Application (Gemini API):** Developed a real-time conversational AI chat app using Google Gemini API, React.js, and Supabase.
-    * [Link to Project Repository - e.g., `https://github.com/Actinker/Gemini-Chat-App`]
-* **Stockgorithm: Deep Learning Prediction Model:** Contributed to an AI-driven algorithmic trading platform using LSTM/TFT models with React and Python.
-    * [Link to Project Repository - e.g., `https://github.com/Actinker/Stockgorithm`]
-* **Continental Hospitality Management:** Led the frontend development (React, Tailwind CSS) and integrated MySQL for a comprehensive hotel management web app with Flask backend collaboration.
-    * [Link to Project Repository - e.g., `https://github.com/Actinker/Continental-Hospitality-Management`]
-* **AquaSweep: Autonomous Water-Cleaning Device Simulation:** Python-based Pygame simulation of an AI-powered bot for water hyacinth removal, developed during a 36-hour hackathon.
-    * [Link to Project Repository - e.g., `https://github.com/Actinker/AquaSweep-Simulation`]
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqd25sNmJuMXd6dnQ3eGV0dHF4eGEwZ3czanJqOW1yN25vOWpibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqWz9NfJ3oQ2c/giphy.gif" width="40px" alt="Project GIF"> </p>
+
+* **Stockgorithm: Deep Learning Prediction Model:** An AI-driven algorithmic trading platform built with deep learning models (LSTM/TFT), React, and Python.
+    * [Repository Link](https://github.com/Actinker/Stockgorithm)
+* **Human Resource Management System (HRMS):** A full-stack solo project developed using Java Spring Boot and PostgreSQL, covering core HR functionalities.
+    * [Repository Link](https://github.com/Actinker/Human-Resource-Management-System)
+* **Full-Stack Blogging Platform:** A personal web application built with Flask, featuring secure user authentication, post management, and commenting functionalities.
+    * [Repository Link](https://github.com/Actinker/Blog)
 
 ---
 
 ### 🏆 Hackathons & Achievements
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1eG92dzV5NHJ1c2g2b25xY3R2ZHl3NnF1c3Nkb2J2eW92OHJ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="40px" alt="Trophy GIF"> </p>
 
 * **HackS’US Hackathon 2025:** Finalist with AquaSweep, an AI-powered system for water quality monitoring.
 * **Smart India Hackathon 2024:** College-Level Qualifier.
@@ -94,7 +97,7 @@ Here are a few highlights from my portfolio:
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Actinker&show_icons=true&theme=vue-dark&hide_title=true&hide=contribs" alt="Abin's GitHub Stats">
@@ -106,9 +109,15 @@ Here are a few highlights from my portfolio:
 
 ### 🤝 Let's Connect!
 
-Feel free to reach out if you'd like to discuss technology, collaborate on projects, or explore new opportunities!
+<p align="center">
+  <a href="https://www.linkedin.com/in/abin-a-c/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abinac2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-* LinkedIn: [Your LinkedIn Profile URL] (e.g., `https://www.linkedin.com/in/abin-a-c/`)
-* Email: `abinac2004@gmail.com`
+Feel free to reach out if you'd like to discuss technology, collaborate on projects, or explore new opportunities!
 
 ---
