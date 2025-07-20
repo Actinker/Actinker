@@ -1,11 +1,12 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgxcmtmdWVjMzkzbWphZDRxeWdnMXBlN2IwNmFxdGpwbmZwdzBtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" width="80px" alt="Welcome Dev GIF">
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B7B7&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Abin+A+C+👋;Aspiring+ML+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-
-  <h1>Hi there, I'm Abin A C! 👋</h1>
-  <p><strong>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</strong></p>
-  <p>📍 Kochi, Kerala, India</p>
-</div>
+<!-- Profile Banner or GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXgxcmtmdWVjMzkzbWphZDRxeWdnMXBlN2IwNmFxdGpwbmZwdzBtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300px" alt="Coding GIF">
+</p>
 
 ---
 
