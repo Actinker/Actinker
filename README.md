@@ -1,14 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px" alt="Coding">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80px" alt="Matrix Code">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80px" alt="Rocket Launch">
-<img src="https://media.giphy.com/media/kH8dbD9nbC0z3bPZ9Y/giphy.gif" width="80px" alt="GitHub Work">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="80px" alt="AI Thinking">
-<img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="80px" alt="Data Chart">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80px" alt="Web Dev">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80px" alt="React">
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="80px" alt="Thumbs Up">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80px" alt="Cat Wave">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="80px" alt="Laptop Animation">
 
   <h1>Hi there, I'm Abin A C! 👋</h1>
   <p><strong>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</strong></p>
@@ -68,7 +59,9 @@ I’m a passionate Computer Science Engineering undergraduate at **Rajagiri Scho
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LqWz9NfJ3oQ2c/giphy.gif" width="80px" alt="Project GIF">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px" alt="Typing Dev">
+
+
 </div>
 
 - 🔮 **[Stockgorithm](https://github.com/Actinker/Stockgorithm)**: AI-driven stock prediction platform using LSTM/Transformer models and a React dashboard.
