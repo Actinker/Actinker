@@ -1,5 +1,5 @@
 <div align="center">
-  ![hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px" alt="Coding">
   <h1>Hi there, I'm Abin A C! 👋</h1>
   <p><strong>🚀 Aspiring Machine Learning Engineer | AI & Data Science Enthusiast | Full-Stack Developer</strong></p>
   <p>📍 Kochi, Kerala, India</p>
