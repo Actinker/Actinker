@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Actinker&show_icons=true&theme=vue-dark&hide_title=true&hide=contribs" width="48%" alt="Abin's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Actinker&theme=vue-dark&hide_title=true" width="48%" alt="Abin's GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Actinker&theme=vue-dark&hide_title=true" width="48%" alt="Abin's GitHub Streak"/> -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Actinker&layout=compact&theme=vue-dark&langs_count=8" width="50%" alt="Abin's Top Languages"/>
 </div>
